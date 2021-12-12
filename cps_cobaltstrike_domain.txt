@@ -468,6 +468,7 @@ shangxian.cddk.cc
 shemsut.com
 shop.redlist.cyou
 showmethecode.ml
+slipknot.microsoft.com
 smartkey.space
 solvaq.com
 solvaq.com
@@ -491,6 +492,7 @@ supremanandfuckyou.com
 surnbuithe.com
 svchost.azureedge.net
 svchosts.myvnc.com
+svchosts1.ddns.net
 svvtc.com
 sync.microsoft-update.co
 systest.nl
