@@ -1,4 +1,5 @@
 1.baiduyuna.tk
+10080.site
 1ftrue.live
 1nnergex.com
 2.baiduyuna.tk
@@ -14,6 +15,7 @@ a.chromedown.xyz
 a.wvwvwv.cf
 a.yangming.cf
 a0.awsstatic.com
+a2.gougou.ml
 aaa.si1entgr0.xyz
 adhd-disorder.com
 admin.1qaz2wsx.cf
@@ -45,11 +47,13 @@ api.update2021.oppo.cn
 api.update2021.oppo.cn.cdn.dnsv1.com
 api.whoismrrobot.xyz
 appdownload.wbiao.cn
+apt.freelinuxupdate.tk
 arkdaily.ftp-download.com
 asdasdasdqfcascasdasdad.flash-china.me
 ashrae-qc.azurewebsites.net
 asismdnu.asisdns.space
 asus-update.freemyip.com
+atsecurity.tk
 auth.limanowa.top
 auth.mmicrosoft.top
 b.trustsecnet.com
@@ -97,6 +101,7 @@ celebrityprofiling.com
 china-gong-an.ga
 choice.microsoft.com.ansatc.net
 cldfr.com
+club.dangbei.com
 cname.onedriveup.today
 cnn.com
 cobalt.crimsoncore.be
@@ -251,6 +256,7 @@ home.yangming.world
 horilonas.com
 hotbunniesnft.art
 https.microsofter.cf
+huawei.jd.com
 hvvcs.qaxateamnb.tk
 i-development.one
 idrmon443.global.ssl.fastly.net
@@ -276,6 +282,7 @@ juilsse.com
 jump.larksuite.workers.dev
 jumpsecuritybusiness.com
 k01.forgottentok2.xyz
+kdmr00t.com
 key-file.com
 ki9.xyz
 kilimsse.com
@@ -362,11 +369,11 @@ redteam.k8s.vn
 reversengeneer.servegame.com
 rh9850.top
 rijkzijn.nl
+root.06d.top
 royal-union-d714.officeupdate.workers.dev
 rpt05.r-tec.net
 rs1.us
 rtafcloud.cf
-rtascloud.ml
 sdilok.com
 search.def.la
 secure-cloud.org
@@ -384,6 +391,7 @@ service-1p4wddz7-1301390598.sh.apigw.tencentcs.com
 service-1t2zpo3w-1300736223.gz.apigw.tencentcs.com
 service-2k6hn27j-1305836665.bj.apigw.tencentcs.com
 service-37dngpmv-1307089625.sh.apigw.tencentcs.com
+service-3ip6munj-1304478029.sh.apigw.tencentcs.com
 service-3nnsdwa1-1306596705.sh.apigw.tencentcs.com
 service-3vkjh0i2-1253759078.gz.apigw.tencentcs.com
 service-466qw2at-1304245224.cd.apigw.tencentcs.com
@@ -404,6 +412,7 @@ service-9x2f9g3x-1303056946.sh.apigw.tencentcs.com
 service-a118jyh9-1302969178.bj.apigw.tencentcs.com
 service-a8nwlz3i-1255368346.hk.apigw.tencentcs.com
 service-abwy2j29-1302108328.bj.apigw.tencentcs.com
+service-acjqilep-1304258173.sh.apigw.tencentcs.com
 service-anwlalbi-1302650299.gz.apigw.tencentcs.com
 service-arxiv2sg-1303909086.gz.apigw.tencentcs.com
 service-as5wrn28-1305098785.gz.apigw.tencentcs.com
@@ -462,6 +471,7 @@ service-r33e0jt1-1302046161.sh.apigw.tencentcs.com
 service-rfx0tvk1-1258128533.bj.apigw.tencentcs.com
 service-rk5lp8v7-1304258173.sh.apigw.tencentcs.com
 service-rmmdkclq-1259802349.gz.apigw.tencentcs.com
+service-rne74uco-1305831073.gz.apigw.tencentcs.com
 service-rqm2g7fw-1301192697.gz.apigw.tencentcs.com
 service.serviceclv-firefox.com
 services.pluscompany.app
@@ -508,6 +518,7 @@ teams-update.azurewebsites.net
 tech.apname.org
 telemetryalliance.com
 telus.azurewebsites.net
+tencent-com.cn
 test.0h1ry.tk
 test.0h1ry.tk
 test.flash-update.pw
@@ -634,6 +645,7 @@ www.superqq.top
 www.taobaozaixian.online
 www.tencent-reporting.ml
 www.theweathernetwork.com
+www.tz8181.com
 www.updateservices.org
 www.wangzha156.xyz
 www.wechat-reporting.ml
@@ -648,6 +660,7 @@ www.ynetcoil.xyz
 www.youtube.com
 www.yyilu.ltd
 wx.sz-max.com
+x.ddos-baidu.site
 xingwai.tk
 xionoll.com
 xue338.com
@@ -657,3 +670,4 @@ yulianovosti.com
 z291cmlkzxjpymvucmvu.com
 zadmin.tk
 zevucad.com
+zh.zh-gov.cf
