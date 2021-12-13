@@ -67,6 +67,7 @@ bbc.com
 bbnews.weixin.com
 bbs.robomaster.com
 beacon.eson.quest
+beacon.eson.quest
 bid.skhystec.com
 binsoxe.com
 blaze.azureedge.net
