@@ -349,7 +349,6 @@ powerpoent.com
 powerpoent.com
 praetorian-bms-testing.org
 private.medicaloptionsfinance.com
-publiccdnie.azureedge.net
 pwserver.soqian.info
 python2.net
 qcapp-9cf35.web.app
@@ -430,6 +429,7 @@ service-deam9n43-1257046868.bj.apigw.tencentcs.com
 service-df2lwfr9-1307188804.sh.apigw.tencentcs.com
 service-dy16eb2f-1305549423.bj.apigw.tencentcs.com
 service-e21y06jw-1252281553.gz.apigw.tencentcs.com
+service-e677rhot-1307618984.bj.apigw.tencentcs.com
 service-eagfy5nx-1259743214.sh.apigw.tencentcs.com
 service-edoacf49-1258012110.bj.apigw.tencentcs.com
 service-euc244cq-1308516909.gz.apigw.tencentcs.com
@@ -448,6 +448,7 @@ service-ishp4fn0-1307626829.gz.apigw.tencentcs.com
 service-j3401n0u-1253135025.hk.apigw.tencentcs.com
 service-j3rc7365-1304639351.bj.apigw.tencentcs.com
 service-j3u4f8jn-1302726620.cd.apigw.tencentcs.com
+service-jevlc9b5-1251435320.cd.apigw.tencentcs.com
 service-juzggqcs-1304498968.gz.apigw.tencentcs.com
 service-kfxj8krl-1258472441.sh.apigw.tencentcs.com
 service-l7b0a8wc-1305819737.gz.apigw.tencentcs.com
