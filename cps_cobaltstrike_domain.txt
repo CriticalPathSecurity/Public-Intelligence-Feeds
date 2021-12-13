@@ -7,6 +7,8 @@
 3.baiduyuna.tk
 360se.linkpc.net
 5gzvip.91tunnel.com
+8.tcp.ngrok.io
+8AqOkLutz5lnmb2V1NhgRcJM.xyz
 9wlmskjvkk.execute-api.us-east-1.amazonaws.com
 HomeFinance-Company.com
 MalonBlanco.com
@@ -48,6 +50,7 @@ api.update2021.oppo.cn.cdn.dnsv1.com
 api.whoismrrobot.xyz
 appdownload.wbiao.cn
 apt.freelinuxupdate.tk
+apt.gdma888.com.cn
 arkdaily.ftp-download.com
 asdasdasdqfcascasdasdad.flash-china.me
 ashrae-qc.azurewebsites.net
@@ -136,6 +139,7 @@ csaaaaaaa.herokuapp.com
 cuphq.com
 cybersecureux.com
 d10pgfie85c852.cloudfront.net
+d112hjcuuvzrra.cloudfront.net
 d12hyv65uloccy.cloudfront.net
 d17e6gprvxm55x.cloudfront.net
 d17vsbxs3f9iz4.cloudfront.net
@@ -256,7 +260,6 @@ hlingxbm.xyz
 home.yangming.world
 horilonas.com
 hotbunniesnft.art
-https.microsofter.cf
 huawei.jd.com
 hvvcs.qaxateamnb.tk
 i-development.one
@@ -374,7 +377,6 @@ royal-union-d714.officeupdate.workers.dev
 rpt05.r-tec.net
 rs1.us
 rtafcloud.cf
-sdilok.com
 search.def.la
 secure-cloud.org
 secure.horilonas.com
@@ -386,9 +388,9 @@ service-18vi4kp0-1302498057.gz.apigw.tencentcs.com
 service-1capft7t-1308508382.sh.apigw.tencentcs.com
 service-1km9hyxt-1302046161.sh.apigw.tencentcs.com
 service-1nwklr53-1302187046.sh.apigw.tencentcs.com
-service-1onslap0-1259245302.gz.apigw.tencentcs.com
 service-1p4wddz7-1301390598.sh.apigw.tencentcs.com
 service-1t2zpo3w-1300736223.gz.apigw.tencentcs.com
+service-2j8u3zjg-1304053418.hk.apigw.tencentcs.com
 service-2k6hn27j-1305836665.bj.apigw.tencentcs.com
 service-37dngpmv-1307089625.sh.apigw.tencentcs.com
 service-3ip6munj-1304478029.sh.apigw.tencentcs.com
@@ -480,6 +482,8 @@ services.pluscompany.app
 services.social.microsoft.com.ansatc.net
 servsetup.com
 setupcustom.com
+sgg.neusoft.space
+sgg.neusoft.space
 sh.homeboyc.cn
 shangxian.cddk.cc
 shemsut.com
@@ -526,6 +530,7 @@ test.0h1ry.tk
 test.flash-update.pw
 test.kurokoleung.cn
 test.neeon.online
+test.opengfw.ml
 test.pikachuu.cf
 test.yazccwj1091.tk
 test.yyilu.ltd
@@ -534,6 +539,7 @@ tianqi.com
 time.amazonec2cloud.top
 traddrsfsrfa.click
 tree.qq.com
+trialgmail.space
 ubartyma.com
 ulsterbanks.com
 unsinorg.cf
@@ -559,6 +565,7 @@ uwprivatebank.nl
 v3-xg-ipv6.ixigua.com
 vanguard.medicaloptionsfinance.com
 vero-fi-henkiloasiakkaat.net
+visont.net
 vpn.weteck.site
 w.wwww-flashplayer.ml
 w2bc.com
