@@ -443,6 +443,7 @@ shoppinggriity1.shop
 shoppinggriity2.shop
 shoppinggriity3.shop
 shoppinggriity5.shop
+shoppinggriity6.shop
 shorthouse.work
 shoutrevise.rocks
 singlemailer.com
