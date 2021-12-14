@@ -10,7 +10,6 @@
 8.tcp.ngrok.io
 8AqOkLutz5lnmb2V1NhgRcJM.xyz
 9wlmskjvkk.execute-api.us-east-1.amazonaws.com
-9x8np02i09.execute-api.us-west-1.amazonaws.com
 HomeFinance-Company.com
 MalonBlanco.com
 No0n3.xyz
@@ -96,6 +95,7 @@ cdn.go-360.co
 cdn.gotokeep.gq
 cdn.keepassxc.ga
 cdn.opensearch.xyz
+cdn.peaeoneu.cc
 cdn.qianxin.com
 cdn.qianxin.com.dsa.dnsv1.com
 cdn.static.ettiao.com
@@ -189,6 +189,7 @@ dg4c05sriu957.cloudfront.net
 dgsbu69ctc1ep.cloudfront.net
 dictionary.com
 dm0joizg99a57.cloudfront.net
+dmvpv86xc2.azurewebsites.net
 dnk9t38hcmqp8.cloudfront.net
 dns-ailyun.tk
 dob5n79ewf5k2.cloudfront.net
