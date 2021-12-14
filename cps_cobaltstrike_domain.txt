@@ -10,6 +10,7 @@
 8.tcp.ngrok.io
 8AqOkLutz5lnmb2V1NhgRcJM.xyz
 9wlmskjvkk.execute-api.us-east-1.amazonaws.com
+9x8np02i09.execute-api.us-west-1.amazonaws.com
 HomeFinance-Company.com
 MalonBlanco.com
 No0n3.xyz
@@ -188,7 +189,6 @@ dg4c05sriu957.cloudfront.net
 dgsbu69ctc1ep.cloudfront.net
 dictionary.com
 dm0joizg99a57.cloudfront.net
-dmvpv86xc2.azurewebsites.net
 dnk9t38hcmqp8.cloudfront.net
 dns-ailyun.tk
 dob5n79ewf5k2.cloudfront.net
@@ -288,7 +288,6 @@ jumpsecuritybusiness.com
 k01.forgottentok2.xyz
 kdmr00t.com
 key-file.com
-ki9.xyz
 kilimsse.com
 kjdhcfv8qvy3v8374twkrht89209o34u398q3gji38493.flash-china.me
 komfort-anlage.de
@@ -654,7 +653,6 @@ www.stitchmonsters1.tk
 www.superqq.top
 www.taobaozaixian.online
 www.tencent-reporting.ml
-www.theweathernetwork.com
 www.tz8181.com
 www.updateservices.org
 www.wangzha156.xyz
