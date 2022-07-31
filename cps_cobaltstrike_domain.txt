@@ -31,7 +31,6 @@ analytics.msftcdn.com
 antliveplay.alicdn.com
 ap-southeast-1.prod.pr.analytics.amazon.com.amazonaws.la
 apex1.tk
-api.moyu.ac.cn
 app.lalamove.com
 appdownload.wbiao.cn
 apt007.microsoft.com
@@ -51,6 +50,7 @@ bevrealestate.us
 bewarovuh.com
 bfer.yxle.cn
 bid.skhystec.com
+bill.shoe88.tk
 bing.com
 bing.somia.buzz
 bitdefender.pm
@@ -96,7 +96,6 @@ cs.zsqiji.com
 cser.tk
 csr.mashiro.pub
 csrtools.bitdefender.com
-ct.vpn.jixunjsq.com
 cuphq.com
 cv.newsmartappsllc.com
 cv.paymentsmusic.com
@@ -143,7 +142,6 @@ d6sqgbtleohmv.cloudfront.net
 daq09367inkax.cloudfront.net
 data.mlcro50ft.com
 dev.rhombersersa.com
-developer.coolapk.com
 dfjcgujqu2cet.cloudfront.net
 dg4c05sriu957.cloudfront.net
 dhktcdi6d5t28.cloudfront.net
@@ -240,7 +238,6 @@ mtlklabs.co
 nakubaba.com
 newstatisc.googleinfo.se
 notpwn.com
-ns1.bdstatic.com
 ns1.c9z.in
 ns1.c9z.in
 ns1.criticallizard.com
@@ -344,6 +341,7 @@ service-inb5r3j6-1256249666.gz.apigw.tencentcs.com
 service-ir8d2gwd-1301941047.bj.apigw.tencentcs.com
 service-jmstmka7-1308574242.bj.apigw.tencentcs.com
 service-jw5nux1q-1258596386.gz.apigw.tencentcs.com
+service-kju2lnsz-1256981364.bj.apigw.tencentcs.com
 service-kq7n1wbv-1259492848.sh.apigw.tencentcs.com
 service-m1jvysen-1309506059.bj.apigw.tencentcs.com
 service-m328t91d-1307678690.bj.apigw.tencentcs.com
@@ -359,6 +357,7 @@ service-r2tscjhh-1257078281.bj.apigw.tencentcs.com
 service-r79o5o6j-1256252492.bj.apigw.tencentcs.com
 service-rc10gcrx-1307066631.sh.apigw.tencentcs.com
 service-rkezxnb8-1252074071.gz.apigw.tencentcs.com
+service-rne74uco-1305831073.gz.apigw.tencentcs.com
 service-rrswgbwn-1259444062.sh.apigw.tencentcs.com
 service.msftcdn.com
 service.serviceclv-firefox.com
@@ -404,6 +403,7 @@ trend-ai-analytics.de
 trumpiko.com
 ts1.john-h.com
 tumblr.com
+tusbatech.com
 twitter.com
 ty.hocct.com
 update.bitdefender.pm
@@ -412,7 +412,6 @@ update.micosoft.org
 update.twittermisc.com
 update.youtubb.tk
 updatedomain.ml
-updatewindow.com
 upgrade-services.com
 us-central1-fds17159.cloudfunctions.net
 us-central1-workers-341417.cloudfunctions.net
@@ -470,6 +469,7 @@ yfuuvhmpuxnhbuvohic.serveminecraft.net
 yuki.xn--w4r654d.cf
 yun1.shinra.gq
 yxdhz.ml
+zh.venustechs.tk
 zh.zhjjk.tk
 zomerax.top
 zuyonijobo.com
