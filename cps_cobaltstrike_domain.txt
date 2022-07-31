@@ -16,6 +16,7 @@ SikesComposites.com
 a.laclac.ml
 a.wvwvwv.cf
 a0.awsstatic.com
+a0.awsstatic.com
 acrobatupdate.net
 adult.up-flash.com
 agreementcenter.microsoft.com
@@ -161,7 +162,6 @@ dns.cdnforever.com
 dns.cloudsecurity1.biz
 dns3.azureedge.net
 doc.run
-dotnet.microsoft.com
 download.windowsupdate.com
 dozifiwih.com
 drwkyazgpblod.cloudfront.net
@@ -190,8 +190,6 @@ flashupdate.net
 fly.a-banking.com
 fnmsdtx.aliyundemo.com
 fougreemarch.com
-freeboz.mooo.com
-freeboz.mooo.com
 frontend.foodpanda.com.tw
 fuckmkesir.ga
 g.liang08.cn
@@ -214,11 +212,11 @@ img6.2345.com
 imsensors.com
 information.mkzhan.com
 interamericanservice.com
-jquery.com
 js.msedgeupdate.com
 js.ssndob.cn.com
 killteam.one
 lcx.monster
+lidoticezo.com
 linux-update.youtubb.tk
 love.strivetobeagod.xyz
 lufigihe.com
@@ -247,7 +245,6 @@ ns1.c9z.in
 ns1.c9z.in
 ns1.criticallizard.com
 ns2.c9z.in
-nslookup.micorsoft.live
 nx1.automicrosoft.com
 omnitruck.chef.io
 oneload.find3321.com
@@ -309,7 +306,6 @@ service-5tl1eb9r-1306113289.bj.apigw.tencentcs.com
 service-5uafdphd-1258031921.bj.apigw.tencentcs.com
 service-5xymuhvr-1257789504.sh.apigw.tencentcs.com
 service-65m9dzhk-1259025339.gz.apigw.tencentcs.com
-service-6h9uzsww-1305167114.gz.apigw.tencentcs.com
 service-6m5v6j3f-1304659738.bj.apigw.tencentcs.com
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com
 service-74x9bci4-1258596386.gz.apigw.tencentcs.com
@@ -348,7 +344,6 @@ service-inb5r3j6-1256249666.gz.apigw.tencentcs.com
 service-ir8d2gwd-1301941047.bj.apigw.tencentcs.com
 service-jmstmka7-1308574242.bj.apigw.tencentcs.com
 service-jw5nux1q-1258596386.gz.apigw.tencentcs.com
-service-k6z1uk8b-1307545782.sh.apigw.tencentcs.com
 service-kq7n1wbv-1259492848.sh.apigw.tencentcs.com
 service-m1jvysen-1309506059.bj.apigw.tencentcs.com
 service-m328t91d-1307678690.bj.apigw.tencentcs.com
@@ -439,7 +434,6 @@ wiredobserver.com
 wmsj.cn
 wvwvwvwvwvwv.f3322.net
 www.22238.net
-www.360mon.cn
 www.360sec.tk
 www.agoegations.com
 www.aliclound-cdn.com
@@ -460,11 +454,8 @@ www.hellomrsone.com
 www.micrcscft-store.com
 www.molekraftness.com
 www.oatest.cf
-www.office.live.cn
-www.office.live.cn.cdn.dnsv1.com.cn
 www.shelterxmas.com
 www.strivetobeagod.xyz
-www.sw0rd.xyz
 www.thefinancecity.com
 www.tmhnpump.cn
 www.updatefordays.com
@@ -473,6 +464,7 @@ www.xiaobiesan.ga
 xc.newsmartappsllc.com
 xc.paymentsmusic.com
 xc.propertyblogusa.com
+y5r9vb1p66.execute-api.us-east-2.amazonaws.com
 yandex.ru
 yfuuvhmpuxnhbuvohic.serveminecraft.net
 yuki.xn--w4r654d.cf
