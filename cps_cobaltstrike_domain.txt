@@ -191,7 +191,6 @@ frontend.foodpanda.com.tw
 fuckmkesir.ga
 g.liang08.cn
 geotypico.com
-getleftarm.com
 globalupdaters.com
 gmw.cn
 gobuxezixa.com
@@ -209,6 +208,7 @@ img6.2345.com
 imsensors.com
 information.mkzhan.com
 interamericanservice.com
+jquery.com
 js.msedgeupdate.com
 js.ssndob.cn.com
 killteam.one
@@ -223,6 +223,7 @@ mail.fitadil.com
 mail.opensearch.xyz
 malrok.com
 me-en.kaspersky.com
+melted-period-mgw.aws-euw1.cloud-ara.tyk.io
 microsoft-tw.com
 microsoft.com
 microsofthelp.fun
@@ -286,6 +287,7 @@ service-0g5r1jl1-1308244004.sh.apigw.tencentcs.com
 service-0old9tu2-1256969323.hk.apigw.tencentcs.com
 service-0wqpel54-1306266622.gz.apigw.tencentcs.com
 service-0zwlux43-1303179058.sh.apigw.tencentcs.com
+service-1cj5s7mx-1253565416.sh.apigw.tencentcs.com
 service-23fh9ahe-1302562187.usw.apigw.tencentcs.com
 service-272xl1r7-1312629461.bj.apigw.tencentcs.com
 service-2rcke0a5-1312435925.sh.apigw.tencentcs.com
