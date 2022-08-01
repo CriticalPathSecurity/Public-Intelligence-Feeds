@@ -80,7 +80,6 @@ cis.riskivy.com
 ciscovpn1.com
 ciscovpn2.com
 comeonbaby.pics
-commander.esonhugh.me
 couponbrothers.com
 courtlincolnglave.com
 cs.arui.tk
@@ -368,7 +367,6 @@ service.msftcdn.com
 service.serviceclv-firefox.com
 setechnowork.com
 sezijiru.com
-sh.homeboyc.cn
 shelterxmas.com
 shelterxmas.com
 sikescomposites.com
@@ -458,6 +456,8 @@ www.hellomrsone.com
 www.micrcscft-store.com
 www.molekraftness.com
 www.oatest.cf
+www.office.live.cn
+www.office.live.cn.cdn.dnsv1.com.cn
 www.shelterxmas.com
 www.strivetobeagod.xyz
 www.thefinancecity.com
