@@ -10,6 +10,7 @@
 36e5cb82.yk1.net
 4827ea60b8d42f63.azureedge.net
 8812532ba7110fbe.azureedge.net
+Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -49,6 +50,7 @@ bfer.yxle.cn
 bid.skhystec.com
 bill.shoe88.tk
 boidu.co
+bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -177,6 +179,7 @@ filsh.cn
 flash-update.ml
 flash-update.tk
 fnmsdtx.aliyundemo.com
+gdk.func.api.chinadd.cn
 globalupdaters.com
 gobuxezixa.com
 gogoparrot.com
@@ -321,6 +324,7 @@ service-d21ggm5n-1307188804.sh.apigw.tencentcs.com
 service-da5heloj-1312757872.sh.apigw.tencentcs.com
 service-dlj2c8h9-1302898455.bj.apigw.tencentcs.com
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com
+service-eqgy4a0w-1306743016.gz.apigw.tencentcs.com
 service-f1tdfeby-1258515730.gz.apigw.tencentcs.com
 service-f9ocw90h-1312629461.bj.apigw.tencentcs.com
 service-g09ic6ob-1302319247.sh.apigw.tencentcs.com
@@ -328,7 +332,6 @@ service-ggkmpmnd-1252733518.sh.apigw.tencentcs.com
 service-hgtx33je-1301706575.gz.apigw.tencentcs.com
 service-hx62nked-1311234979.bj.apigw.tencentcs.com
 service-ir8d2gwd-1301941047.bj.apigw.tencentcs.com
-service-izsse53i-1302702632.gz.apigw.tencentcs.com
 service-jmstmka7-1308574242.bj.apigw.tencentcs.com
 service-k6z1uk8b-1307545782.sh.apigw.tencentcs.com
 service-kju2lnsz-1256981364.bj.apigw.tencentcs.com
@@ -370,7 +373,6 @@ sts.tencentcloudapp.tk
 syadplus.co
 sync.microsoft-update.co
 t.yoao.com
-t4949.diaosiso.com
 teadict.tk
 tengxun.ink
 test.com
@@ -393,7 +395,6 @@ vinergil.com
 vlkcollabs.nl
 wafefuvuko.com
 warpspeed.cn-northwest-1.amazonaws.com.cn
-weathers.bing.com
 web.ms-log-upload.tk
 webmail.igovservice.com
 webmail.igovservice.net
