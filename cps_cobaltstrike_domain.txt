@@ -10,7 +10,6 @@
 36e5cb82.yk1.net
 4827ea60b8d42f63.azureedge.net
 8812532ba7110fbe.azureedge.net
-Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -50,7 +49,6 @@ bfer.yxle.cn
 bid.skhystec.com
 bill.shoe88.tk
 boidu.co
-bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -166,7 +164,6 @@ earthlife.ownip.net
 egostore.top
 emdl.ws.microsoft.com
 er.hocct.com
-er.theinfoinc.com
 erhoanfroieu.com
 esswiftupdate.azureedge.net
 exch01.certificate-infrastructure.com
@@ -188,7 +185,6 @@ google.fr
 google.userscontent.org
 greasy-commerce-mgw.aws-euw1.cloud-ara.tyk.io
 h5m.voc.com.cn
-hacksec.ml
 hao123.com
 help.newspraise.com
 iboxdatabase.com
@@ -253,7 +249,6 @@ qianxing.rocks
 quickaccesone.com
 quotecenter.microsoft.com
 qw.hocct.com
-qw.theinfoinc.com
 qwerty.mcuweb.cf
 rancorhealth.com
 randwijckholding.nl
@@ -325,6 +320,7 @@ service-cv62i2eg-1258558004.hk.apigw.tencentcs.com
 service-d21ggm5n-1307188804.sh.apigw.tencentcs.com
 service-da5heloj-1312757872.sh.apigw.tencentcs.com
 service-dlj2c8h9-1302898455.bj.apigw.tencentcs.com
+service-eh2fyewb-1301153563.sh.apigw.tencentcs.com
 service-f1tdfeby-1258515730.gz.apigw.tencentcs.com
 service-f9ocw90h-1312629461.bj.apigw.tencentcs.com
 service-g09ic6ob-1302319247.sh.apigw.tencentcs.com
@@ -384,7 +380,6 @@ tools.microserver.ga
 ts1.john-h.com
 tusbatech.com
 ty.hocct.com
-ty.theinfoinc.com
 udapte.adesy.in
 update.chaitin.cc
 update.huorongsec.com
