@@ -143,7 +143,6 @@ denialallowance.com
 dev.rhombersersa.com
 devogv.com
 dhktcdi6d5t28.cloudfront.net
-digerm.com
 digitalcloudcdn.com.global.prod.fastly.net
 dingjava.vaiwan.com
 dl.kaspersky360.com
@@ -293,7 +292,6 @@ service-55x2fkgd-1306305698.cd.apigw.tencentcs.com
 service-5dqdv2h6-1304865419.gz.apigw.tencentcs.com
 service-5dttvfnl-1253933974.sh.apigw.tencentcs.com
 service-5uafdphd-1258031921.bj.apigw.tencentcs.com
-service-5xymuhvr-1257789504.sh.apigw.tencentcs.com
 service-6200y2pt-1306248427.sh.apigw.tencentcs.com
 service-62fgb97q-1312589201.gz.apigw.tencentcs.com
 service-65m9dzhk-1259025339.gz.apigw.tencentcs.com
@@ -330,7 +328,6 @@ service-h5io7azq-1259685312.gz.apigw.tencentcs.com
 service-hgtx33je-1301706575.gz.apigw.tencentcs.com
 service-hx62nked-1311234979.bj.apigw.tencentcs.com
 service-ir8d2gwd-1301941047.bj.apigw.tencentcs.com
-service-jmstmka7-1308574242.bj.apigw.tencentcs.com
 service-k6z1uk8b-1307545782.sh.apigw.tencentcs.com
 service-kju2lnsz-1256981364.bj.apigw.tencentcs.com
 service-m1jvysen-1309506059.bj.apigw.tencentcs.com
@@ -367,7 +364,6 @@ ssl.windows-audio.com
 stads.10086.cn
 staos.microsoft.com
 sts.tencentcloudapp.tk
-syadplus.co
 sync.microsoft-update.co
 t.yoao.com
 teadict.tk
