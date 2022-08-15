@@ -10,6 +10,7 @@
 36e5cb82.yk1.net
 4827ea60b8d42f63.azureedge.net
 8812532ba7110fbe.azureedge.net
+Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -48,6 +49,7 @@ beautyhealthandlifestyle.com
 bfer.yxle.cn
 bid.skhystec.com
 boidu.co
+bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -327,6 +329,7 @@ service-f1tdfeby-1258515730.gz.apigw.tencentcs.com
 service-f9ocw90h-1312629461.bj.apigw.tencentcs.com
 service-g09ic6ob-1302319247.sh.apigw.tencentcs.com
 service-ggkmpmnd-1252733518.sh.apigw.tencentcs.com
+service-h5io7azq-1259685312.gz.apigw.tencentcs.com
 service-hgtx33je-1301706575.gz.apigw.tencentcs.com
 service-hx62nked-1311234979.bj.apigw.tencentcs.com
 service-ir8d2gwd-1301941047.bj.apigw.tencentcs.com
