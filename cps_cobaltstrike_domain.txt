@@ -64,7 +64,6 @@ cache.pay-api.api-cloudflare.com
 callibry.to
 camelyfashion.com
 capetradefinance.co.za
-cc94cfc50fa54d0d9191c7ef9b556915.apig.cn-north-1.huaweicloudapis.com
 cdn.ad-tracker.org
 cdn.adobe-research.net
 cdn.avprotect.net
@@ -272,7 +271,6 @@ secure.newspraise.com
 secure.rancorhealth.com
 secure.shelterxmas.com
 securelogonweb.com
-server.upadte-googie.com
 server31459.microsoft-essentials.com
 service-09k3vmip-1312931273.sh.apigw.tencentcs.com
 service-0ci24vb8-1252281553.gz.apigw.tencentcs.com
@@ -347,7 +345,6 @@ service-odolei17-1309297788.bj.apigw.tencentcs.com
 service-okkm58qq-1256791925.gz.apigw.tencentcs.com
 service-p51jmamc-1252114028.hk.apigw.tencentcs.com
 service-pwwv8yzw-1302026685.hk.apigw.tencentcs.com
-service-pzq156ks-1307695615.gz.apigw.tencentcs.com
 service-qns5blny-1252551592.gz.apigw.tencentcs.com
 service-qomnoi6c-1258177992.gz.apigw.tencentcs.com
 service-qr8hb2yt-1302491583.sh.apigw.tencentcs.com
