@@ -1,4 +1,3 @@
-0.tcp.ap.ngrok.io
 04e9e371f04631e8.azureedge.net
 0663dc31cf6d40a5.azureedge.net
 0x000000009D.0x00000000F5.0x0000000042.0x000000009A
