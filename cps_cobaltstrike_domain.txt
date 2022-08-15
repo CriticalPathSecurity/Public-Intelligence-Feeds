@@ -10,7 +10,6 @@
 36e5cb82.yk1.net
 4827ea60b8d42f63.azureedge.net
 8812532ba7110fbe.azureedge.net
-Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -48,9 +47,7 @@ bbnews.weixin.com
 beautyhealthandlifestyle.com
 bfer.yxle.cn
 bid.skhystec.com
-bill.shoe88.tk
 boidu.co
-bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -176,6 +173,7 @@ fba6692092.chinawanxiang.co
 fee.mozilla-firfox.com
 files.ddrive.online
 filsh.cn
+fj.qaxnc.co
 flash-update.ml
 flash-update.tk
 fnmsdtx.aliyundemo.com
