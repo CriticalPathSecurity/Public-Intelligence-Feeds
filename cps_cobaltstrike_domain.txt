@@ -9,9 +9,11 @@
 360.com
 360se.linkpc.net
 36e5cb82.yk1.net
+3e1e831d.r3.vip.cpolar.cn
 4827ea60b8d42f63.azureedge.net
 8812532ba7110fbe.azureedge.net
 93b7-204-44-112-14.jp.ngrok.io
+Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -59,6 +61,7 @@ bid.skhystec.com
 bing.somia.buzz
 bksfinance.com
 boidu.co
+bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -449,6 +452,7 @@ stads.10086.cn
 staos.microsoft.com
 sts.tencentcloudapp.tk
 svchost0731.ddnsfree.com
+sx.bypass.net.cn
 syadplus.co
 sync.microsoft-update.co
 t.yoao.com
