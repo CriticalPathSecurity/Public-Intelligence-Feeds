@@ -59,6 +59,7 @@ bid.skhystec.com
 bing.somia.buzz
 bksfinance.com
 boidu.co
+branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
 bunedidu.com
@@ -406,6 +407,7 @@ service-ir8d2gwd-1301941047.bj.apigw.tencentcs.com
 service-jmstmka7-1308574242.bj.apigw.tencentcs.com
 service-k6z1uk8b-1307545782.sh.apigw.tencentcs.com
 service-kju2lnsz-1256981364.bj.apigw.tencentcs.com
+service-lmugilgu-1252551592.gz.apigw.tencentcs.com
 service-m1jvysen-1309506059.bj.apigw.tencentcs.com
 service-m1w7ab1m-1308003250.gz.apigw.tencentcs.com
 service-m2v4j6yp-1306583579.sh.apigw.tencentcs.com
@@ -479,7 +481,6 @@ vajunocin.com
 vgleb.icu
 vinergil.com
 vlkcollabs.nl
-volde.azureedge.net
 volodast.com
 wafefuvuko.com
 warpspeed.cn-northwest-1.amazonaws.com.cn
