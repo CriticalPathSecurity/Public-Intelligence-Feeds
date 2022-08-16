@@ -1,6 +1,7 @@
 0.tcp.ap.ngrok.io
 04e9e371f04631e8.azureedge.net
 0663dc31cf6d40a5.azureedge.net
+090c-107-161-86-143.eu.ngrok.io
 0x000000009D.0x00000000F5.0x0000000042.0x000000009A
 10080.site
 1222-173-82-121-42.ngrok.io
@@ -10,6 +11,7 @@
 36e5cb82.yk1.net
 4827ea60b8d42f63.azureedge.net
 8812532ba7110fbe.azureedge.net
+93b7-204-44-112-14.jp.ngrok.io
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -35,9 +37,9 @@ anmal.ddns.net
 antliveplay.alicdn.com
 ap-southeast-1.prod.pr.analytics.amazon.com.amazonaws.la
 apex1.tk
+api.0nedriveup.com
 appdownload.wbiao.cn
 apt007.microsoft.com
-asdcw.oracleup.cc
 asismdnu.asisdns.space
 ateliernow.net
 atsecurity.tk
@@ -66,6 +68,7 @@ c2.focusfireandsecuity.net
 c2.iwhacktool.cf
 c2f7beea0359ec3d.azureedge.net
 c838b36639163ceb.azureedge.net
+c90a-104-223-103-72.ngrok.io
 cache.pay-api.api-cloudflare.com
 callibry.to
 camelyfashion.com
@@ -188,6 +191,7 @@ dzirhl3cboiz9.cloudfront.net
 e505772e-a4eb-11ec-b909-0242ac120002.opensearch.xyz
 earthlife.ownip.net
 edoc.edu.mn
+efe7-155-94-250-25.ap.ngrok.io
 egostore.top
 emdl.ws.microsoft.com
 emergeno.com
@@ -212,13 +216,13 @@ fnmsdtx.aliyundemo.com
 freeboz.mooo.com
 freeboz.mooo.com
 fuckmkesir.ga
+fudupdate.com
 gdk.func.api.chinadd.cn
 getleftarm.com
 globalupdaters.com
 gmw.cn
 gobuxezixa.com
 gogoparrot.com
-google.es
 google.fr
 google.userscontent.org
 greasy-commerce-mgw.aws-euw1.cloud-ara.tyk.io
@@ -313,7 +317,6 @@ randwijckholding.nl
 rdadev.com
 realmacnow.com
 redtricks.uk
-rehazosipa.com
 remote.nedsecures.co.za
 res.mall.10010.cn
 rovonaj.com
