@@ -11,9 +11,10 @@
 36e5cb82.yk1.net
 3e1e831d.r3.vip.cpolar.cn
 4827ea60b8d42f63.azureedge.net
+502e5cc5862d078c.azureedge.net
+658ac8dbc3e9951f.azureedge.net
 8812532ba7110fbe.azureedge.net
 93b7-204-44-112-14.jp.ngrok.io
-Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -61,7 +62,6 @@ bid.skhystec.com
 bing.somia.buzz
 bksfinance.com
 boidu.co
-bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -74,6 +74,7 @@ c2f7beea0359ec3d.azureedge.net
 c838b36639163ceb.azureedge.net
 c90a-104-223-103-72.ngrok.io
 cache.pay-api.api-cloudflare.com
+caixukun.club
 callibry.to
 camelyfashion.com
 capetradefinance.co.za
@@ -162,6 +163,7 @@ d3umravkzw9sxh.cloudfront.net
 d3vbl8i5ilwqpv.cloudfront.net
 d3vy30ofci3zh0.cloudfront.net
 d48b9c2602904fd4.azureedge.net
+d5w4xhdzz6cnm.cloudfront.net
 d6sqgbtleohmv.cloudfront.net
 d706b4c1e5cf9229.azureedge.net
 data.mlcro50ft.com
@@ -193,6 +195,7 @@ dtjdlxxktdy1z.cloudfront.net
 dynamic-pro.ddns.net
 dzirhl3cboiz9.cloudfront.net
 e505772e-a4eb-11ec-b909-0242ac120002.opensearch.xyz
+eager-crew-mgw.aws-euw1.cloud-ara.tyk.io
 earthlife.ownip.net
 edoc.edu.mn
 efe7-155-94-250-25.ap.ngrok.io
@@ -215,8 +218,10 @@ fj.qaxnc.co
 flash-update.ml
 flash-update.tk
 flashupdate.net
+flopsale.net
 fly.a-banking.com
 fnmsdtx.aliyundemo.com
+footballreviews.net
 freeboz.mooo.com
 freeboz.mooo.com
 fuckmkesir.ga
@@ -254,6 +259,8 @@ lcx.monster
 linux-update.youtubb.tk
 llnw-mail.limelight-networks.com
 login.financialdiet.net
+login.flopsale.net
+login.footballreviews.net
 login.newspraise.com
 login.rancorhealth.com
 love.strivetobeagod.xyz
@@ -329,6 +336,8 @@ sadc3.crabdance.com
 saharalive.in
 saml3.healthbeam.org
 secure.buyality.com
+secure.flopsale.net
+secure.footballreviews.net
 secure.molekraftness.com
 secure.newslimitless.com
 secure.newsmach.com
@@ -381,6 +390,7 @@ service-8h9i5s0a-1308454369.gz.apigw.tencentcs.com
 service-955koung-1259774614.gz.apigw.tencentcs.com
 service-ag21zuo2-1300496321.gz.apigw.tencentcs.com
 service-agucqyip-1251526205.bj.apigw.tencentcs.com
+service-aon6qi1z-1308736846.bj.apigw.tencentcs.com
 service-az91uv0i-1307356722.gz.apigw.tencentcs.com
 service-b2qdzdoq-1300549872.gz.apigw.tencentcs.com
 service-b4iz0hz9-1311161169.sh.apigw.tencentcs.com
@@ -497,6 +507,7 @@ westherrr.info
 windows-defender-update.ru
 wiredobserver.com
 wmsj.cn
+wooden-storytelling-mgw.aws-euw1.cloud-ara.tyk.io
 word.micsoft360.tk
 word.micsoft360.tk
 worldeducationsummit.in
@@ -508,6 +519,7 @@ www.aliclound-cdn.com
 www.amazon.com
 www.asia.microsoft.com.chinawebsite.shop
 www.axiommortgagebankers.com
+www.ba1du.gq
 www.baidu.com
 www.base-jscript.com
 www.bbuguck.tk
@@ -519,6 +531,8 @@ www.digitallightphotography.net
 www.dxszl.tk
 www.edge-chrome.com
 www.filsh.cn
+www.flopsale.net
+www.footballreviews.net
 www.gdcgx.com
 www.hellomrsone.com
 www.helo00hw21.cf
