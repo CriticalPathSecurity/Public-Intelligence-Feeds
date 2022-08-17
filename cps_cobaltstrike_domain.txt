@@ -314,6 +314,7 @@ pabowape.com
 paypal.com
 phisher.nastydomain.com
 pic07.babytreeimg.com
+pogilubipi.com
 polyporedevtest100.azureedge.net
 pqm7e68efm0u17xeo.202cb962ac.tk
 pro.mcagroupinvest.com
@@ -504,6 +505,7 @@ warpspeed.cn-northwest-1.amazonaws.com.cn
 web.ms-log-upload.tk
 webmail.igovservice.com
 webmail.igovservice.net
+weibo.com
 westeurope-teams.azureedge.net
 westherrr.info
 windows-defender-update.ru
