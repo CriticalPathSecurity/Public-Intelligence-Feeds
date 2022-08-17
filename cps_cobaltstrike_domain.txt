@@ -211,8 +211,8 @@ f1f5c18217.microsoft.com
 fba6692092.chinawanxiang.co
 fee.mozilla-firfox.com
 filaspo.com
-files.ddrive.online
 filsh.cn
+finance.enterprise-notifications.com
 finance.enterprise-notifications.com
 fj.qaxnc.co
 flash-update.ml
@@ -376,6 +376,7 @@ service-5xymuhvr-1257789504.sh.apigw.tencentcs.com
 service-6200y2pt-1306248427.sh.apigw.tencentcs.com
 service-62fgb97q-1312589201.gz.apigw.tencentcs.com
 service-65m9dzhk-1259025339.gz.apigw.tencentcs.com
+service-69evco24-1308067728.gz.apigw.tencentcs.com
 service-6h9uzsww-1305167114.gz.apigw.tencentcs.com
 service-6i8t3bv3-1313041668.bj.apigw.tencentcs.com
 service-6m5v6j3f-1304659738.bj.apigw.tencentcs.com
@@ -400,7 +401,6 @@ service-cev31f6z-1300549872.sh.apigw.tencentcs.com
 service-cubngdi8-1258984158.gz.apigw.tencentcs.com
 service-cutulobn-1310581445.sh.apigw.tencentcs.com
 service-cv62i2eg-1258558004.hk.apigw.tencentcs.com
-service-d21ggm5n-1307188804.sh.apigw.tencentcs.com
 service-d27rg2y2-1256209700.gz.apigw.tencentcs.com
 service-dlj2c8h9-1302898455.bj.apigw.tencentcs.com
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com
