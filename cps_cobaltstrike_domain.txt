@@ -15,6 +15,7 @@
 658ac8dbc3e9951f.azureedge.net
 8812532ba7110fbe.azureedge.net
 93b7-204-44-112-14.jp.ngrok.io
+Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -62,6 +63,7 @@ bid.skhystec.com
 bing.somia.buzz
 bksfinance.com
 boidu.co
+bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -443,6 +445,7 @@ service-rjy9pt4x-1251576337.sh.apigw.tencentcs.com
 service.msftcdn.com
 service.serviceclv-firefox.com
 setechnowork.com
+shaggy-poultry-mgw.aws-euw1.cloud-ara.tyk.io
 shelterxmas.com
 shelterxmas.com
 sikescomposites.com
@@ -466,6 +469,7 @@ sx.bypass.net.cn
 syadplus.co
 sync.microsoft-update.co
 t.yoao.com
+taxiinfo.click
 tcmfinancieinc.com
 teadict.tk
 teledomn.com
@@ -477,6 +481,7 @@ thefinancecity.com
 tianya.baidu.com
 tools.microserver.ga
 tous.qianxin.eu.org
+trouter2-uswc-1-b.cloudapp.net
 trumpiko.com
 ts1.john-h.com
 tusbatech.com
@@ -546,6 +551,7 @@ www.office.live.cn.cdn.dnsv1.com.cn
 www.shelterxmas.com
 www.strivetobeagod.xyz
 www.sw0rd.xyz
+www.syst1m.tk
 www.test9977.tk
 www.thefinancecity.com
 www.updatefordays.com
