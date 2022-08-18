@@ -81,15 +81,9 @@ camelyfashion.com
 capetradefinance.co.za
 caxoxc.com
 cc.mircsoft.org
-cdn.ad-tracker.org
-cdn.adobe-research.net
-cdn.avprotect.net
-cdn.dns-response.net
-cdn.dnsportal.org
 cdn.fuckscstc.cf
 cdn.go-360.co
 cdn.gwin.tk
-cdn.idnslookup.net
 cdn.peakyblinders.uk
 cdn.static.ettiao.com
 cdn.tttom.ga
@@ -115,6 +109,7 @@ cs.bilibi1i.com
 cs.bpfi.nl
 cs.crungoogle.cf
 cs.dk7999001.com
+cs.hellomotherfucker.tk
 cs.qianxin.us
 cs.usy7.cc
 cs.vcat.ml
@@ -298,7 +293,6 @@ nx1.automicrosoft.com
 oknorm.in
 old-cache.pay-api.api-cloudflare.com
 omnitruck.chef.io
-onedrive.live.com
 oneload.find3321.com
 onelogin-sso.com
 onemusicllc.com
@@ -319,6 +313,8 @@ qianxing.rocks
 quotecenter.microsoft.com
 qw.hocct.com
 qwerty.mcuweb.cf
+r1.shelbylses.in
+r2.shelbyses.in
 rancorhealth.com
 randwijckholding.nl
 rdadev.com
@@ -437,6 +433,7 @@ service-qr8hb2yt-1302491583.sh.apigw.tencentcs.com
 service-qzqblyxa-1251482983.gz.apigw.tencentcs.com
 service-r0h26wst-1305277913.bj.apigw.tencentcs.com
 service-r2tscjhh-1257078281.bj.apigw.tencentcs.com
+service-r7j0dbwv-1304913409.bj.apigw.tencentcs.com
 service-rjy9pt4x-1251576337.sh.apigw.tencentcs.com
 service.msftcdn.com
 service.serviceclv-firefox.com
