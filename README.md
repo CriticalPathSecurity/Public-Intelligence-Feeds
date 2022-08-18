@@ -8,4 +8,4 @@
 
 This is a public feed based on Public Threat Feeds and CRITICAL PATH SECURITY gathered data.
 
-Thu Aug 18 00:10:46 UTC 2022
+Thu Aug 18 01:10:35 UTC 2022
