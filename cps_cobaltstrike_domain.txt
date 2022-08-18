@@ -15,7 +15,6 @@
 658ac8dbc3e9951f.azureedge.net
 8812532ba7110fbe.azureedge.net
 93b7-204-44-112-14.jp.ngrok.io
-Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -63,7 +62,6 @@ bid.skhystec.com
 bing.somia.buzz
 bksfinance.com
 boidu.co
-bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -198,7 +196,6 @@ dynamic-pro.ddns.net
 dzirhl3cboiz9.cloudfront.net
 e505772e-a4eb-11ec-b909-0242ac120002.opensearch.xyz
 eager-crew-mgw.aws-euw1.cloud-ara.tyk.io
-earthlife.ownip.net
 edoc.edu.mn
 efe7-155-94-250-25.ap.ngrok.io
 egostore.top
@@ -214,7 +211,6 @@ fba6692092.chinawanxiang.co
 fee.mozilla-firfox.com
 filaspo.com
 filsh.cn
-finance.enterprise-notifications.com
 finance.enterprise-notifications.com
 fj.qaxnc.co
 flash-update.ml
@@ -316,6 +312,7 @@ phisher.nastydomain.com
 pic07.babytreeimg.com
 pogilubipi.com
 polyporedevtest100.azureedge.net
+postoffice.eastus.cloudapp.azure.com
 pqm7e68efm0u17xeo.202cb962ac.tk
 pro.mcagroupinvest.com
 processdec.com
@@ -331,6 +328,7 @@ realmacnow.com
 redtricks.uk
 remote.nedsecures.co.za
 res.mall.10010.cn
+reversengeneer.servegame.com
 rovonaj.com
 rx-fill.com
 sadc3.crabdance.com
@@ -374,7 +372,6 @@ service-55x2fkgd-1306305698.cd.apigw.tencentcs.com
 service-5dqdv2h6-1304865419.gz.apigw.tencentcs.com
 service-5r4tuap1-1307268891.sh.apigw.tencentcs.com
 service-5uafdphd-1258031921.bj.apigw.tencentcs.com
-service-5xymuhvr-1257789504.sh.apigw.tencentcs.com
 service-6200y2pt-1306248427.sh.apigw.tencentcs.com
 service-62fgb97q-1312589201.gz.apigw.tencentcs.com
 service-65m9dzhk-1259025339.gz.apigw.tencentcs.com
@@ -460,7 +457,6 @@ software-download.microsoft.com
 solveral.org
 sophossecurityi.com
 speedysbattery.com
-ssl.windows-audio.com
 ssn.bbcinternationalnews.com
 stads.10086.cn
 staos.microsoft.com
@@ -487,7 +483,6 @@ trumpiko.com
 ts1.john-h.com
 tusbatech.com
 ty.hocct.com
-udapte.adesy.in
 update.huorongsec.com
 update.micosoft.org
 update.youtubb.tk
