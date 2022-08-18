@@ -211,6 +211,7 @@ fee.mozilla-firfox.com
 filaspo.com
 filsh.cn
 finance.enterprise-notifications.com
+finance.enterprise-notifications.com
 fj.qaxnc.co
 flash-update.ml
 flash-update.tk
@@ -231,6 +232,7 @@ gobuxezixa.com
 gogoparrot.com
 google.fr
 google.userscontent.org
+greasy-commerce-mgw.aws-euw1.cloud-ara.tyk.io
 gx1.i8mc.cn
 h5m.voc.com.cn
 hao123.com
@@ -444,7 +446,6 @@ setechnowork.com
 shaggy-poultry-mgw.aws-euw1.cloud-ara.tyk.io
 shelterxmas.com
 shelterxmas.com
-shivering-swimming-mgw.aws-euw1.cloud-ara.tyk.io
 sikescomposites.com
 sinatxbaidu.oneneo.xyz
 sinergil.com
