@@ -15,6 +15,7 @@
 658ac8dbc3e9951f.azureedge.net
 8812532ba7110fbe.azureedge.net
 93b7-204-44-112-14.jp.ngrok.io
+Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -61,6 +62,7 @@ bid.skhystec.com
 bing.somia.buzz
 bksfinance.com
 boidu.co
+bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -404,6 +406,7 @@ service-eh2fyewb-1301153563.sh.apigw.tencentcs.com
 service-eqgy4a0w-1306743016.gz.apigw.tencentcs.com
 service-f1tdfeby-1258515730.gz.apigw.tencentcs.com
 service-f9ocw90h-1312629461.bj.apigw.tencentcs.com
+service-ftx0pmo1-1312669812.bj.apigw.tencentcs.com
 service-g09ic6ob-1302319247.sh.apigw.tencentcs.com
 service-ggkmpmnd-1252733518.sh.apigw.tencentcs.com
 service-h5io7azq-1259685312.gz.apigw.tencentcs.com
