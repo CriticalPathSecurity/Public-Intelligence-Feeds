@@ -24,7 +24,6 @@ a.wvwvwv.cf
 a0.awsstatic.com
 aa0f8793a29cf137.azureedge.net
 acrobatupdate.net
-admin.salesforce.com
 adult.up-flash.com
 agreementcenter.microsoft.com
 agrikoz.com
@@ -78,6 +77,7 @@ caixukun.club
 callibry.to
 camelyfashion.com
 capetradefinance.co.za
+caxoxc.com
 cc.mircsoft.org
 cdn.ad-tracker.org
 cdn.adobe-research.net
@@ -176,7 +176,6 @@ dhktcdi6d5t28.cloudfront.net
 di4grt1creb6j.cloudfront.net
 di4grt1creb6j.cloudfront.net
 digerm.com
-digitalcloudcdn.com.global.prod.fastly.net
 dingjava.vaiwan.com
 distinctive-obi-mgw.aws-euw1.cloud-ara.tyk.io
 dkij48kij8kng.cloudfront.net
@@ -211,7 +210,6 @@ fee.mozilla-firfox.com
 filaspo.com
 filsh.cn
 finance.enterprise-notifications.com
-finance.enterprise-notifications.com
 fj.qaxnc.co
 flash-update.ml
 flash-update.tk
@@ -232,7 +230,6 @@ gobuxezixa.com
 gogoparrot.com
 google.fr
 google.userscontent.org
-greasy-commerce-mgw.aws-euw1.cloud-ara.tyk.io
 gx1.i8mc.cn
 h5m.voc.com.cn
 hao123.com
@@ -446,6 +443,7 @@ setechnowork.com
 shaggy-poultry-mgw.aws-euw1.cloud-ara.tyk.io
 shelterxmas.com
 shelterxmas.com
+shivering-swimming-mgw.aws-euw1.cloud-ara.tyk.io
 sikescomposites.com
 sinatxbaidu.oneneo.xyz
 sinergil.com
@@ -478,6 +476,7 @@ thefinancecity.com
 tianya.baidu.com
 tools.microserver.ga
 tous.qianxin.eu.org
+trouter2-uswc-1-b.cloudapp.net
 trouter2-uswc-1-b.cloudapp.net
 trumpiko.com
 ts1.john-h.com
