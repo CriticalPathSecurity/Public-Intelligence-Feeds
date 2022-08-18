@@ -15,7 +15,6 @@
 658ac8dbc3e9951f.azureedge.net
 8812532ba7110fbe.azureedge.net
 93b7-204-44-112-14.jp.ngrok.io
-Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -63,7 +62,6 @@ bid.skhystec.com
 bing.somia.buzz
 bksfinance.com
 boidu.co
-bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -209,7 +207,6 @@ esswiftupdate.azureedge.net
 exch01.certificate-infrastructure.com
 extremecows.com
 f1f5c18217.microsoft.com
-fba6692092.chinawanxiang.co
 fee.mozilla-firfox.com
 filaspo.com
 filsh.cn
@@ -234,7 +231,6 @@ gobuxezixa.com
 gogoparrot.com
 google.fr
 google.userscontent.org
-greasy-commerce-mgw.aws-euw1.cloud-ara.tyk.io
 gx1.i8mc.cn
 h5m.voc.com.cn
 hao123.com
@@ -448,6 +444,7 @@ setechnowork.com
 shaggy-poultry-mgw.aws-euw1.cloud-ara.tyk.io
 shelterxmas.com
 shelterxmas.com
+shivering-swimming-mgw.aws-euw1.cloud-ara.tyk.io
 sikescomposites.com
 sinatxbaidu.oneneo.xyz
 sinergil.com
@@ -499,7 +496,6 @@ vinergil.com
 vlkcollabs.nl
 volodast.com
 wafefuvuko.com
-warpspeed.cn-northwest-1.amazonaws.com.cn
 web.ms-log-upload.tk
 webmail.igovservice.com
 webmail.igovservice.net
