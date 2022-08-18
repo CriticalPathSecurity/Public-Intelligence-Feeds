@@ -289,7 +289,6 @@ newspraise.com
 newstatisc.googleinfo.se
 nidojazuso.com
 notpwn.com
-ns1.azure-atp.com
 ns1.criticallizard.com
 ns1.wsywddr.com
 ns2.wsywddr.com
@@ -344,7 +343,6 @@ secure.rancorhealth.com
 secure.shelterxmas.com
 securelogonweb.com
 server.upadte-googie.com
-server31459.microsoft-essentials.com
 service-09k3vmip-1312931273.sh.apigw.tencentcs.com
 service-0ci24vb8-1252281553.gz.apigw.tencentcs.com
 service-0g5r1jl1-1308244004.sh.apigw.tencentcs.com
