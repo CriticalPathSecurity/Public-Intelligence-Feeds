@@ -15,7 +15,6 @@
 658ac8dbc3e9951f.azureedge.net
 8812532ba7110fbe.azureedge.net
 93b7-204-44-112-14.jp.ngrok.io
-Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -24,6 +23,7 @@ a.laclac.ml
 a.wvwvwv.cf
 a0.awsstatic.com
 aa0f8793a29cf137.azureedge.net
+academic.opentelecomfort.tk
 acrobatupdate.net
 acssupport.org
 adult.up-flash.com
@@ -64,7 +64,6 @@ bid.skhystec.com
 bing.somia.buzz
 bksfinance.com
 boidu.co
-bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -111,6 +110,7 @@ cs.bpfi.nl
 cs.crungoogle.cf
 cs.dk7999001.com
 cs.hellomotherfucker.tk
+cs.newbird.cf
 cs.qianxin.us
 cs.usy7.cc
 cs.vcat.ml
@@ -547,6 +547,7 @@ www.updatefordays.com
 www.updateforhours.com
 www.vietsovspeedtest.com
 www.wangzha157.xyz
+www.wikiknownsec.tk
 www.xiaobiesan.ga
 xc.buyinvestmentusa.com
 xc.newsmartappsllc.com
@@ -557,6 +558,7 @@ xvideos.com
 y5r9vb1p66.execute-api.us-east-2.amazonaws.com
 yandex.ru
 yk.woctest.site
+yourrealestateblog.com
 yxdhz.ml
 zambeziz.com
 zh.venustechs.tk
