@@ -67,7 +67,6 @@ bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
-bunedidu.com
 buyality.com
 c.vvvth.com
 c2.focusfireandsecuity.net
@@ -227,7 +226,6 @@ globalupdaters.com
 gmw.cn
 gobuxezixa.com
 gogoparrot.com
-google.fr
 google.userscontent.org
 gx1.i8mc.cn
 h5m.voc.com.cn
@@ -402,7 +400,6 @@ service-d27rg2y2-1256209700.gz.apigw.tencentcs.com
 service-dlj2c8h9-1302898455.bj.apigw.tencentcs.com
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com
 service-eqgy4a0w-1306743016.gz.apigw.tencentcs.com
-service-f1tdfeby-1258515730.gz.apigw.tencentcs.com
 service-f9ocw90h-1312629461.bj.apigw.tencentcs.com
 service-ftx0pmo1-1312669812.bj.apigw.tencentcs.com
 service-g09ic6ob-1302319247.sh.apigw.tencentcs.com
