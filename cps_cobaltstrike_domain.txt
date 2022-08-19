@@ -15,7 +15,6 @@
 658ac8dbc3e9951f.azureedge.net
 8812532ba7110fbe.azureedge.net
 93b7-204-44-112-14.jp.ngrok.io
-Bookmark-Tag.com
 BraPrest.com
 CouponBrothers.com
 PropertyExpoAndShowcase.com
@@ -25,6 +24,7 @@ a.wvwvwv.cf
 a0.awsstatic.com
 aa0f8793a29cf137.azureedge.net
 acrobatupdate.net
+acssupport.org
 adult.up-flash.com
 agreementcenter.microsoft.com
 agrikoz.com
@@ -62,7 +62,6 @@ bid.skhystec.com
 bing.somia.buzz
 bksfinance.com
 boidu.co
-bookmark-tag.com
 branchmgmt.azureedge.net
 braprest.com
 bueatyskyescrow.com
@@ -179,6 +178,7 @@ dkij48kij8kng.cloudfront.net
 dl.kaspersky360.com
 dl.kasperskyupdates.com
 dmfe2ryjiqnq7.cloudfront.net
+dnfutcpxi5u1v.cloudfront.net
 dns.cloudsecurity1.biz
 dnvvbsf4v1jdv.cloudfront.net
 doc.run
