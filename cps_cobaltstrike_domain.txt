@@ -42,6 +42,7 @@ anmal.ddns.net
 antliveplay.alicdn.com
 ap-southeast-1.prod.pr.analytics.amazon.com.amazonaws.la
 apex1.tk
+apexklu.com
 api.0nedriveup.com
 appdownload.wbiao.cn
 apt007.microsoft.com
@@ -101,7 +102,6 @@ ciscovpn1.com
 ciscovpn2.com
 cn.cobsk.tk
 comeonbaby.pics
-commander.esonhugh.me
 couponbrothers.com
 courtlincolnglave.com
 cryptotalk.ws
@@ -280,6 +280,7 @@ mossolazin.com
 motivationalhindi.in
 mr.un1k0d3r.com
 mscrl1.azureedge.net
+msdupdate.com
 mtechtunes.com
 newslimitless.com
 newsmach.com
@@ -552,6 +553,7 @@ www.vietsovspeedtest.com
 www.wangzha157.xyz
 www.wikiknownsec.tk
 www.xiaobiesan.ga
+www.yxdhz.cf
 xc.buyinvestmentusa.com
 xc.newsmartappsllc.com
 xc.onlinestyleservices.com
@@ -563,7 +565,6 @@ yandex.ru
 yeepaygraup.com
 yk.woctest.site
 yourrealestateblog.com
-yxdhz.ml
 zambeziz.com
 zh.venustechs.tk
 zh.venustechs.tk
