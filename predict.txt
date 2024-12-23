@@ -1,4 +1,3 @@
-www.microsoft.com
 imageshells.com
 sonic4me.com
 www.update.microsoft.com
@@ -43,7 +42,6 @@ ryy.12318wb.com
 site.ip138.com
 sp0.baidu.com
 www.download.windowsupdate.com
-www.bing.com
 imageshells.com
 sonic4me.com
 www.update.microsoft.com
