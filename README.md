@@ -21,4 +21,4 @@ Filename | Provider  | Homepage                         | List URL              
 | illuminate.intel | Critical Path Security | https://www.criticalpathsecurity.com/ | Github | https://www.criticalpathsecurity.com/ |
 | predict_intel.intel | Georgia Tech Research Institute (GTRI) | https://www.gatech.edu/ | https://www.gatech.edu/ | https://www.gatech.edu/ |
 | sans.intel | SANS | https://isc.sans.edu/ | https://isc.sans.edu/api/intelfeed | https://isc.sans.edu/data/threatfeed.html |
-Mon May 26 08:22:33 UTC 2025
+Mon May 26 09:22:34 UTC 2025
